@@ -25,11 +25,11 @@ class to store other elements) up to 500px.
 this practice you will learn in the next submodule).
 * These are not all rules for our container :) Now give it a white background. For background-color use the values: 
 white, rgb (255,255,255) or #FFF.bNow add a 20px padding.
-* Create another rule, this time for the <h1> tag, and then center the text in it using the text-align property.
+* Create another rule, this time for the h1 tag, and then center the text in it using the text-align property.
 * Open the index.html file.
-* Right before the <body> tag, before <div class = "content">, insert the page header. To do this, create a <div> tag 
+* Right before the body tag, before <div class = "content">, insert the page header. To do this, create a <div> tag 
 with the header class. Remember to close it.
-* Inside this tag, create a <h1> tag and put text that welcomes you on your page.
+* Inside this tag, create a h1 tag and put text that welcomes you on your page.
 * Note that photos can go beyond our div about the content class. width: 100% for the <img> tag is a declaration that 
 will solve our problem. The photos will now occupy 100% of the parent's width.
 * The next step will be to create a footer. After closing the content class element, open the <div> tag with the 
@@ -56,5 +56,5 @@ The following tools were used
 ## Screen 
 ![Screen](https://github.com/wojtekboj/module_1-1.2/blob/master/images/screencapture.png)
 
-Link do Zadania 1.2
+## Working Page
 https://wojtekboj.github.io/module_1-1.2/index.html
