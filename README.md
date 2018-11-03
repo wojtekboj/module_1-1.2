@@ -47,6 +47,7 @@ margins 0, padding 30px on the top, 0 on the right, 15px on the bottom and 20px 
 ## Technologies
 Project is created with:
 * HTML5
+* CSS3
 
 ## Tools
 The following tools were used
